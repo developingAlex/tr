@@ -8,7 +8,7 @@ https://joneaves.wordpress.com/2014/07/21/toy-robot-coding-test/
 
 
 ## Challenge
-
+<p>
 The challenge, taking from the comment in the above post, was:
 
 Description:
@@ -61,7 +61,7 @@ LEFT
 MOVE
 REPORT
 Output: 3,3,NORTH
-
+</p>
 
 ## Notes
 
@@ -75,4 +75,3 @@ at the time I was viewing it as a simple challenge.
 coding the robot but I'm glad that I did in the end because they ended up 
 catching a few issues and it solidified my impression of the necessity 
 for testing.
-* 
